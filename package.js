@@ -4,5 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use('jquery', 'client');
+  api.use('underscore', 'client');
   api.add_files(['joint.js', 'joint.css'], 'client');
 });
