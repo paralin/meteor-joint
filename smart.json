@@ -1,0 +1,9 @@
+{
+  "name": "joint",
+  "description": "Library for visualization and interaction with diagrams and graphs.",
+  "homepage": "http://jointjs.com/",
+  "author": "Christian Stewart <kidovate@gmail.com>",
+  "version": "0.8.1",
+  "git": "https://github.com/kidovate/meteor-joint.git",
+  "packages": {}
+}
