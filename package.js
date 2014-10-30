@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Library for visualization and interaction with diagrams and graphs.",
   version: "0.9.2",
-  name: "santteegt:jointjs",
-  git: "https://github.com/santteegt/meteor-joint"
+  name: "kidovate:joint",
+  git: "https://github.com/paralin/meteor-joint"
 });
 
 Package.onUse(function (api) {
